@@ -9,7 +9,7 @@ export function LandingPage(): JSX.Element {
       <h1>Welcome!</h1>
       <p>
         This app demonstrates how to use the Medplum SDK to work with{' '}
-        <Anchor href="https://www.hl7.org/fhir/task" target="_blank">
+        <Anchor href="https://www.hl7.org/fhir/task.html" target="_blank">
           FHIR Tasks
         </Anchor>
         .
